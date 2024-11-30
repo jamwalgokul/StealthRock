@@ -36,7 +36,7 @@ StealthRock is a powerful, multi-threaded Python port scanning tool designed for
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/StealthRock.git
+git clone https://github.com/jamwalgokul/StealthRock.git
 cd StealthRock
 ```
 
